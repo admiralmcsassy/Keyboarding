@@ -1,3 +1,8 @@
 (sym_lib_table
-  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/benme/Documents/GitHub/Keyboarding/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Keyboarding/Type-C.pretty-master/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Keyboarding/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Keyboarding/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "AT90USB1286-AU")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Orbit/Orbit-PCB/locallib.pretty/AT90USB1286-AU.lib")(options "")(descr ""))
+  (lib (name "ai03-locallib")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Orbit/Orbit-PCB/locallib.pretty/schema/ai03-locallib.lib")(options "")(descr ""))
+  (lib (name "logic")(type "Legacy")(uri "C:/Users/Noot/Documents/GitHub/Orbit/Orbit-PCB/locallib.pretty/schema/logic.lib")(options "")(descr ""))
 )

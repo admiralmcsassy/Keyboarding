@@ -392,11 +392,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "Hangulator.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hangulator.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

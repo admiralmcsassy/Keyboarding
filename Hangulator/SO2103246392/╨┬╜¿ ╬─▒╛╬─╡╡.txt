@@ -1,0 +1,5 @@
+MODEL:AdmiralMcsassyGerberFiles_Y2 
+SIZE: 32.0 x 42.0 CM T = 0.12 MM
+DATE:2021-03-27 22:00  
+NO:SO2103246392    3509269A (外贸)   
+[无铝框钢片][电解]
